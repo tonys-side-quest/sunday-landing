@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/dilworth",
+      "destination": "https://drive.google.com/file/d/1EMhgfPa49Y7vCMMPDTQ6-AHX6kJcN4SQ/view?usp=sharing",
+      "permanent": false
+    },
+    {
+      "source": "/101",
+      "destination": "https://drive.google.com/file/d/1L-0hrqkotG-7AYyvPul8_uOp1RMatoZG/view?usp=sharing",
+      "permanent": false
+    }
+  ]
+}
